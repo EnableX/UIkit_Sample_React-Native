@@ -11,7 +11,7 @@ Unlock the potential of this React-Native mobile app to:
 
 3. Join Virtual Rooms: Seamlessly participate in virtual rooms either as a moderator or participant, guaranteeing a secure and immersive video calling experience.
 
-Experience the future of video communication with this Flutter app, powered by EnableX, such as Flutter web/mobile video calling, EnableX infrastructure, real-time video, audio features, and more.
+Experience the future of video communication with this React-Native app, powered by EnableX, such as React-Native mobile video calling, EnableX infrastructure, real-time video, audio features, and more.
 
 ## 1. Get started
 
