@@ -76,7 +76,7 @@ const kAppkey = "App-key";
 * Share Room ID with others to join the Virtual Room with you.
 
 Note:
-* This Sample flutter Application created a Virtual Room with limited Participant and 1 Moderator only.
+* This Sample React-Native Application created a Virtual Room with limited Participant and 1 Moderator only.
 * In case of emulator/simulator your local stream will not create. It will create only on real device.
 
 ## 2. Testing Environment
@@ -89,11 +89,11 @@ In this environment, you will only be able to:
 
 > More information on Testing Environment: https://developer.enablex.io/video/sample-code/#demo-app-server
 
-Once you have tested it, it is important that you set up your own Application Server to continue building a one to one or multiparty Flutter video calling app. Refer to section 1.1.4 on how to set up the Application Server.
+Once you have tested it, it is important that you set up your own Application Server to continue building a one to one or multiparty React-Native video calling app. Refer to section 1.1.4 on how to set up the Application Server.
 
 ## 3. React_Native UIKit
 
-This Sample Application uses EnableX React-Native UIKit to communicate with EnableX Servers to initiate, manage Real-Time Video Communications and create a beautify & customized Audio/Video call UI. Please update your Application with latest version of EnableX Flutter UIKit as and when a new release is available.
+This Sample Application uses EnableX React-Native UIKit to communicate with EnableX Servers to initiate, manage Real-Time Video Communications and create a beautify & customized Audio/Video call UI. Please update your Application with latest version of EnableX React-Native UIKit as and when a new release is available.
 
 ![single](./single.png)
 
