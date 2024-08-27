@@ -38,11 +38,11 @@ class EnxConferenceScreen extends Component<Props, State> {
 
     // RTMP and URL details setup
     const rtmpDetails = {
-      rtmpUrl: "rtmp://streamer.ebx.vouchpro.tv:1935/prolive/IFFCO",
+      rtmpUrl: "",
     };
 
     const urlDetails = {
-      url: "https://iffco.yourvideo.live/?header=false&grid_line_icon=no&rtmp_mode=yes&toolbar=false&grid_view=gallery&max_video=yes&token=",
+      url: "",
       layOut: "",
     };
 
