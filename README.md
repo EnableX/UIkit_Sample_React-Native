@@ -45,7 +45,7 @@ An Application Server is required for your React-Native mobile App to communicat
 Note the following:
 •	You need to use App ID and App Key to run this Service.
 •	Your React-Native  Client EndPoint needs to connect to this Service to create Virtual Room and Create Token to join the session.
-•	Application Server is created using [EnableX Server API] (https://www.enablex.io/developer/video-api/server-api) while Rest API Service helps in provisioning, session access and post-session reporting.
+•	Application Server is created using [EnableX Server API] (https://developer.enablex.io/docs/references/apis/video-api/index/) while Rest API Service helps in provisioning, session access and post-session reporting.
 
 If you would like to test the quality of EnableX video call before setting up your own application server, you can run the test on our pre-configured environment. Refer to point 2 for more details on this.
 
