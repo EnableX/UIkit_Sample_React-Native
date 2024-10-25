@@ -21,7 +21,7 @@ Experience the future of video communication with this React-Native app, powered
 
 You would need API Credentials to access EnableX platform. To do that, simply create an account with us. It’s absolutely free!
 
-* Create an account with EnableX - https://portal.enablex.io/cpaas/trial-sign-up/
+* Create an account with EnableX - https://www.enablex.io/free-trial/
 * Create your Project
 * Get your App ID and App Key delivered to your email
 
@@ -45,7 +45,7 @@ An Application Server is required for your React-Native mobile App to communicat
 Note the following:
 •	You need to use App ID and App Key to run this Service.
 •	Your React-Native  Client EndPoint needs to connect to this Service to create Virtual Room and Create Token to join the session.
-•	Application Server is created using [EnableX Server API] (https://developer.enablex.io/docs/references/apis/video-api/index/) while Rest API Service helps in provisioning, session access and post-session reporting.
+•	Application Server is created using [EnableX Server API] (https://developer.enablex.io/docs/guides/video-guide/sample-codes/video-calling-app/#demo-application-server) while Rest API Service helps in provisioning, session access and post-session reporting.
 
 If you would like to test the quality of EnableX video call before setting up your own application server, you can run the test on our pre-configured environment. Refer to point 2 for more details on this.
 
@@ -87,8 +87,7 @@ In this environment, you will only be able to:
 * Conduct a single session with a total durations of not more than 15 minutes
 * Host a multiparty call with no more than 6 participants
 
-> More information on Testing Environment: https://developer.enablex.io/video/sample-code/#demo-app-server
-
+> More information on Testing Environment: https://developer.enablex.io/docs/guides/video-guide/sample-codes/video-calling-app/#demo-application-server
 Once you have tested it, it is important that you set up your own Application Server to continue building a one to one or multiparty React-Native video calling app. Refer to section 1.1.4 on how to set up the Application Server.
 
 ## 3. React_Native UIKit
